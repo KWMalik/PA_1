@@ -1,4 +1,7 @@
-Rename the folder yourUni to your actual uni
+Name: Kurry L Tran
+Programming Assignment #1
+Computer Networks
+
 You should be able to execute your program for step_1 by typing "make step_1"
 You should be able to launch the GUI by typing "make gui"
 To submit your work type "make submit"
